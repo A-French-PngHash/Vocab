@@ -1,0 +1,26 @@
+{
+    "Restaurant" : {
+        "cook" : {
+            "english" : "cook",
+            "french" : "cuisinier",
+            "spanish" : "cocinero"
+        },
+        "table" : {
+            "english" : "table",
+            "french" : "table",
+            "spanish" : "mesa"
+        }
+    },
+    "Kitchen" : {
+        "sink" : {
+            "english" : "sink",
+            "french" : "évier",
+            "spanish" : "fregadero"
+        },
+        "oven" : {
+            "english" : "oven",
+            "french" : "four",
+            "spanish" : "horno"
+        }
+    }
+}
